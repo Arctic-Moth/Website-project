@@ -1,0 +1,80 @@
+h1{    color: red;    
+    text-emphasis: bold; 
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+    right:auto;
+    text-underline-position: below;
+}
+
+    #navbar{ height: 20px;
+display: flex;  
+color-scheme: y;
+background-color: white;
+justify-content: center;
+justify-content: space-around;
+    }
+
+
+body{ background-color:peachpuff
+}
+
+
+h2 {     color: red;    
+    text-emphasis: bold; 
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;        
+}
+
+
+h3{  text-align: end;    
+    font-size: 35px; 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+h4{   text-align: end; 
+       font-size: 35px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+
+p{ text-anchor: middle;
+        font-size: 30px; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+
+
+#img-container{
+    border: peachpuff 2px solid;
+    display: flex; 
+    justify-content: space-around;
+}
+#image1{
+
+border:  peachpuff 2px solid ;
+width: 30%; 
+}
+
+#img-container2{
+    border: peachpuff 2px solid;
+    display: flex; 
+    justify-content: space-around;
+}
+#image2{
+
+    border: peachpuff 2px solid ;
+    width: 30%; 
+    }
+
+
+#footer{
+  
+     height: 20px;
+        display: flex;  
+        color-scheme: y;
+        background-color: white;
+   justify-content: center;
+   justify-content: space-around;
+  
+}
